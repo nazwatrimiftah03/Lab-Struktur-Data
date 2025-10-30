@@ -1,6 +1,6 @@
 /*
-Nama: [Isi Nama Anda]
-NIM: [Isi NIM Anda]
+Nama: Nazwa Tri Mifthah
+NIM: 241401106
 */
 #include <iostream>
 #include <vector>
@@ -92,4 +92,5 @@ int main() {
     }
     
     return 0;
+
 }
